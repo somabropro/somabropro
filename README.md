@@ -4,5 +4,3 @@
 
 Entrepreneur, développeur et créateur IA, basé en France.
 Je construis des produits, des systèmes et des idées : applications mobiles, sites web, assistants IA et automatisations.
-
-**Stack** · TypeScript · React · Next.js · React Native · Swift · Python · Supabase · PostgreSQL
